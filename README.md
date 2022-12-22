@@ -5,6 +5,6 @@
 -  
 - 💞️
 - 💞️ The Data Warehouse framework implementation scripts are located in the Data Warehouse directory.
-- 💞️ https://datawarehouse.relationaldata.net/
-- 📫 jqa@RelationalData.net
+- 💞️ https://datawarehouse.arrangingdata.com
+- 📫 jqa@arrangingdata.com
 
